@@ -1,0 +1,15 @@
+/Users/sgall/Projects/GeometryForms/GeometryForms/bin/Debug/net7.0/GeometryForms
+/Users/sgall/Projects/GeometryForms/GeometryForms/bin/Debug/net7.0/GeometryForms.deps.json
+/Users/sgall/Projects/GeometryForms/GeometryForms/bin/Debug/net7.0/GeometryForms.runtimeconfig.json
+/Users/sgall/Projects/GeometryForms/GeometryForms/bin/Debug/net7.0/GeometryForms.dll
+/Users/sgall/Projects/GeometryForms/GeometryForms/bin/Debug/net7.0/GeometryForms.pdb
+/Users/sgall/Projects/GeometryForms/GeometryForms/obj/Debug/net7.0/GeometryForms.csproj.AssemblyReference.cache
+/Users/sgall/Projects/GeometryForms/GeometryForms/obj/Debug/net7.0/GeometryForms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sgall/Projects/GeometryForms/GeometryForms/obj/Debug/net7.0/GeometryForms.AssemblyInfoInputs.cache
+/Users/sgall/Projects/GeometryForms/GeometryForms/obj/Debug/net7.0/GeometryForms.AssemblyInfo.cs
+/Users/sgall/Projects/GeometryForms/GeometryForms/obj/Debug/net7.0/GeometryForms.csproj.CoreCompileInputs.cache
+/Users/sgall/Projects/GeometryForms/GeometryForms/obj/Debug/net7.0/GeometryForms.dll
+/Users/sgall/Projects/GeometryForms/GeometryForms/obj/Debug/net7.0/refint/GeometryForms.dll
+/Users/sgall/Projects/GeometryForms/GeometryForms/obj/Debug/net7.0/GeometryForms.pdb
+/Users/sgall/Projects/GeometryForms/GeometryForms/obj/Debug/net7.0/GeometryForms.genruntimeconfig.cache
+/Users/sgall/Projects/GeometryForms/GeometryForms/obj/Debug/net7.0/ref/GeometryForms.dll
